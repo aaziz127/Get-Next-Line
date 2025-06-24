@@ -1,5 +1,6 @@
 # Get-Next-Line
 Reading a line from a file descriptor is far too tedious.
-               \b Summary:
+
+              Summary:
 This project is about programming a function that returns a line
 read from a file descriptor.
